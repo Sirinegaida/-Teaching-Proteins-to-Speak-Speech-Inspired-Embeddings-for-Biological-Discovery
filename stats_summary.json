@@ -1,0 +1,15 @@
+{
+  "silhouette_trained_mean": 0.7014999210834503,
+  "silhouette_trained_std": 0.0666171533785057,
+  "silhouette_untrained_mean": 0.5599805623292923,
+  "silhouette_untrained_std": 0.09252384200742478,
+  "silhouette_label_permutation_null_mean": 0.00014899494999554008,
+  "ratio_trained_over_untrained": 1.2527219126419225,
+  "welch_t": 5.551164825768451,
+  "welch_p": 3.146688359222787e-06,
+  "cohens_d": 1.7554324516440065,
+  "permutation_p_median": 0.000999000999000999,
+  "permutation_p_max": 0.000999000999000999,
+  "n_seeds": 20,
+  "n_permutations": 1000
+}
